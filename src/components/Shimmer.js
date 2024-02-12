@@ -22,6 +22,7 @@ const Shimmer = () => {
         <div className="m-4 p-4 w-[219px] h-[340px] bg-red-200 hover:bg-red-300"></div>
         <div className="m-4 p-4 w-[219px] h-[340px] bg-red-200 hover:bg-red-300"></div>
         <div className="m-4 p-4 w-[219px] h-[340px] bg-red-200 hover:bg-red-300"></div>
+        7
       </div>
     </div>
   );
